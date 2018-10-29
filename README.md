@@ -6,7 +6,7 @@ It was able to return relevant results by taking the entire term into considerat
 ![screenshot_1](./screenshots/dse_1.png)
 </br>
 </br>
-Again, instead of searching 'Penn' and 'President' independently, it considered them as the same phrase.
+Again, instead of searching 'Penn' and 'President' independently, it considered them as the same phrase. </br></br>
 ![screenshot_2](./screenshots/dse_4.png)
 </br>
 </br>
@@ -14,7 +14,7 @@ Again, instead of searching 'Penn' and 'President' independently, it considered 
 </br>
 </br>
 </br>
-It can also show current weather, map, items from ebay, etc. based on the search query.</br>
+It can also show current weather, map, items from ebay, etc. based on the search query.</br></br>
 ![screenshot_4](./screenshots/dse_2.png)
 </br>
 </br>
