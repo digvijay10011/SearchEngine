@@ -1,6 +1,7 @@
 # SearchEngine
 A distributed search engine with scalable crawler and indexer. </br>
 Due to University's policy, code cannot be made public. </br>
+Detailed report can be found [here](https://drive.google.com/file/d/1okhyIMINsN540Qcb1n7rk984ggG6v6BJ/view?usp=sharing)
 </br>
 </br>
 It was able to return relevant results by taking the entire term into consideration rather than just searching keywords independently. </br>
